@@ -36,7 +36,7 @@ bin/
 *.class
 classes/
 **/classes/
-*.jar
+# *.jar (Permitido por petición)
 *.war
 output/
 **/output/
