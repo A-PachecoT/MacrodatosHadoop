@@ -2,6 +2,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+# Permitir que los jars en artifacts se suban
+!out/artifacts/
+!out/artifacts/**/*.jar
 .kotlin
 
 ### Eclipse ###
